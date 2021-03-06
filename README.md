@@ -1,2 +1,2 @@
 # Finance_Tools
-A repository of potentially useful spreadsheets for personal and organisational finance management
+A repository of mainly spreadsheets I have made which could be useful for others managing their personal and organisational finances.
